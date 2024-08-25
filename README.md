@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚 Graduate studying Electrical and Computer Engineering
+📚 Student studying Electrical and Computer Engineering
 
 ⚙️ Current and 2x SWE Intern @ Lockheed Martin
 
