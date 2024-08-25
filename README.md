@@ -6,7 +6,7 @@
 
 💡 Research Assistant exploring connections between mobile tech and human health
 
-👩🏽‍💻 Member of IEEE, IEEE RAS, Machine Learning and Data Science, Information and Systems Security, AIAA
+👩🏽‍💻 Member of IEEE, IEEE RAS, IEEE CS, Machine Learning and Data Science, Information and Systems Security, AIAA, and ASME
 
 🏆 Competed in hackathons @ JP Morgan Chase and Chevron
 
