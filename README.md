@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-📚 Graduate studying Electrical and Computer Engineering @ University of Texas at Austin
+📚 Graduate studying Electrical and Computer Engineering
 
 ⚙️ Current and 2x SWE Intern @ Lockheed Martin
 
-👾 Research Assistant @ UT Austin
+👾 Research Assistant
 
 👩🏽‍💻 Member of IEEE, IEEE RAS, Machine Learning and Data Science, Information and Systems Security, ASME
 
-🏆 I've won two hackathons @ JP Morgan Chase and Capital One
+🏆 Competed in hackathons @ JP Morgan Chase and Chevron
 
 💬 Reach out to see code for my personal projects
 
