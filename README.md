@@ -10,7 +10,7 @@
 
 🏆 Competed in hackathons @ JP Morgan Chase and Chevron
 
-👯 Working on SWE, ML/AI, and embedded system projects as well as any collaborative opportunities to learn new technologies 
+👯 Working on SWE, ML/AI, and embedded system projects as well as any collaborative opportunities to learn new skills and technologies 
 
 💬 Reach out to see code for my personal projects
 
