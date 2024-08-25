@@ -4,7 +4,7 @@
 
 ⚙️ Current and 2x SWE Intern @ Lockheed Martin
 
-👾 Research Assistant
+💡 Research Assistant exploring connections between mobile tech and human health
 
 👩🏽‍💻 Member of IEEE, IEEE RAS, Machine Learning and Data Science, Information and Systems Security, ASME
 
@@ -12,7 +12,7 @@
 
 💬 Reach out to see code for my personal projects
 
-💡 Working on SWE, ML/AI, and embedded system projects as well as any collaborative opportunities to learn new technologies 
+👯 Working on SWE, ML/AI, and embedded system projects as well as any collaborative opportunities to learn new technologies 
 
 📫 Currently looking for new opportunities in SWE, ML/AI, Data Science, and Embedded Systems
 
