@@ -2,7 +2,7 @@
 
 📚 Student studying Electrical and Computer Engineering
 
-⚙️ Current and 2x SWE Intern @ Lockheed Martin
+⚙️ 2x SWE Intern @ Lockheed Martin
 
 💡 Research Assistant exploring connections between mobile tech, human health, and ML
 
