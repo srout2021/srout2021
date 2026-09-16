@@ -2,8 +2,6 @@
 
 📚 Student studying Electrical and Computer Engineering
 
-⚙️ 2x SWE Intern @ Lockheed Martin
-
 💡 Research Assistant exploring connections between mobile tech, human health, and ML
 
 👩🏽‍💻 Member of IEEE, IEEE RAS, IEEE CS, Machine Learning and Data Science, Information and Systems Security, and AIAA
